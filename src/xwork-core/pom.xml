@@ -22,7 +22,7 @@
 
     <properties>
         <currentVersion>${pom.version}</currentVersion>
-        <struts2.springPlatformVersion>2.5.6</struts2.springPlatformVersion>
+        <struts2.springPlatformVersion>5.2.7.RELEASE</struts2.springPlatformVersion>
         <asm.version>3.1</asm.version>
         <ognl.version>3.0</ognl.version>
     </properties>
