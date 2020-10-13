@@ -299,7 +299,7 @@
             <artifactId>junit</artifactId>
               <scope>compile</scope>
             <optional>true</optional>
-          <version>3.8.2</version>
+          <version>4.13.1</version>
         </dependency>
 
         <dependency>
